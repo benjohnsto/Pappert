@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://benjohnsto.github.io/Pappert/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in benjohnsto/Pappert project"
+        ]
+    },
+    "items": []
+}
